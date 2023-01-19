@@ -1,0 +1,6 @@
+---
+title: Ändra bilder
+date: "2023-01-17"
+---
+Jag har ändrat mina bilder till lite roligare saker och jag har fixat så att min article har en bild istället för att vara vit.
+Jag har också ändrat färg på nummret som visar hur många poäng man har till svart.

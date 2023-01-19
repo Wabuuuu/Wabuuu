@@ -27,3 +27,13 @@
     <slot />
   </main>
 </main>
+
+<style>
+  main{
+  background-image: url("https://img.archiexpo.com/images_ae/photo-mg/3852-17555356.jpg");
+  background-size: 100%;
+  background-position: -1px -50px;
+
+  }
+
+</style>
